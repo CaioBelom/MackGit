@@ -1,2 +1,2 @@
 # MackGit
-Galeria Mack em C 
+Algoritmos e Programação II - Projetos 
